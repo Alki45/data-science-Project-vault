@@ -22,7 +22,7 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 
 ## Tools and Technologies
 
-- **Languages**: Python, R
+- **Languages**: Python, SQL
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, TensorFlow, Keras
 
 ## Contact
